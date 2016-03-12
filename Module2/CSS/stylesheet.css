@@ -27,6 +27,7 @@ div {
     color: lightcyan;
     overflow: auto;
     border: 1px solid lightskyblue;
+    padding: 10px;
 
 }
 div.allContent {
