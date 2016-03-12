@@ -67,14 +67,15 @@ footer {
 @media (min-width:768px) and (max-width:991px) {
     .box1, .box2 {
         width: 48%;
-        margin-left: 2%;
+        margin-right: 2%;
         height: 310px;
         margin-bottom: 10px;
     }
     .box3 {
-        width: 100%;
+        width: 98%;
         height: auto;
         padding-bottom: 10px;
+        float: left;
     }
     .botton3 {
         width: 15%;
