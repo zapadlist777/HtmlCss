@@ -129,3 +129,11 @@ body {
         height: 20px;
     }
 }
+
+#collapseable-nav a { /*Collapsed nav menu glyph */
+    font-size: 1.2em;
+}
+
+#collapseable-nav a span {
+    font-size: 1em;
+}
