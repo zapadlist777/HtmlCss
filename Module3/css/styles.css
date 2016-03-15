@@ -130,10 +130,11 @@ body {
     }
 }
 
-#collapseable-nav a { /*Collapsed nav menu glyph */
+#collapsable-nav a { /*Collapsed nav menu glyph */
     font-size: 1.2em;
 }
 
-#collapseable-nav a span {
+#collapsable-nav a span {
     font-size: 1em;
+    margin-right: 5px;
 }
