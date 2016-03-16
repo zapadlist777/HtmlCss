@@ -86,7 +86,9 @@ body {
 /* Large devices only */
 
 @media (min-width: 1200px) {
-
+    .jumbotron {
+        background: url('..images/jumbotron_1200.jpg') no-repeat;
+    }
 }
 
 /* Medium devices only */
