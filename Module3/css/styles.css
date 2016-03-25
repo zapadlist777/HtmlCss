@@ -181,6 +181,12 @@ body {
     padding: 0;
   }
 
+    #menu-tile, specials-tile {
+        width: 350px;
+        margin: 0 auto 15px;
+    }
+
+
 }
 
 #menu-tile, #specials-tile, #map-tile {
